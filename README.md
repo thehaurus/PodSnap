@@ -58,7 +58,7 @@ Summary: Elon references filmmaker Werner Herzog to challenge romantic notions o
 
 https://github.com/user-attachments/assets/acfc2579-32ca-48d9-8774-b9738244320f
 
-As an AI/ML freelancer with expertise in OpenAI technologies, I can help you:
+I can help you :
 
 ✅ Automate tedious tasks like transcription and editing
 <br>
