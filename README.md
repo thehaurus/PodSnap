@@ -48,7 +48,7 @@ streamlit run app.py
 
 ## 📄 Sample Input
 
-Input : https://www.youtube.com/watch?v=JN3KPFbWCy8&t=2175s
+Input : https://www.youtube.com/watch?v=JN3KPFbWCy8
 
 ## 🎬 Sample Output
 
