@@ -46,11 +46,11 @@ cd PodSnap/streamlit_app
 
 streamlit run app.py
 
-## Sample
+## 📄 Sample Input
 
 Input : https://www.youtube.com/watch?v=JN3KPFbWCy8&t=2175s
 
-Output :
+## 🎬 Sample Output
 
 Title: "Nature: Beautiful or Brutal?"
 
