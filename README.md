@@ -1,6 +1,6 @@
 <h1>Podcast Reel Generator 🎙️➡️🎥</h1>
 
-PodcastInsights is an advanced AI-powered system designed to revolutionize podcast and video content creation by automating the extraction of transcripts, generating insightful highlights, and producing shareable video clips—all from a single YouTube URL. This solution streamlines workflows for creators, marketers, educators, and media professionals by eliminating manual transcription and editing, enhancing accessibility, and enabling the creation of platform-optimized highlights for social media, marketing, and educational use.
+Podcast Insights is an advanced AI-powered system designed to revolutionize podcast and video content creation by automating the extraction of transcripts, generating insightful highlights, and producing shareable video clips—all from a single YouTube URL. This solution streamlines workflows for creators, marketers, educators, and media professionals by eliminating manual transcription and editing, enhancing accessibility, and enabling the creation of platform-optimized highlights for social media, marketing, and educational use.
 
 🎯 Why Choose This System?
 
